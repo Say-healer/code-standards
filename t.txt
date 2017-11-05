@@ -1,0 +1,1 @@
+git@github.com:Say-healer/code-standards.git
